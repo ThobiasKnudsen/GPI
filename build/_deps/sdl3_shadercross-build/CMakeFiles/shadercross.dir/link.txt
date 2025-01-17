@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--no-undefined CMakeFiles/shadercross.dir/src/cli.c.o -o shadercross  -Wl,-rpath,/home/tk/dev/GPI/build/_deps/sdl3_shadercross-build:/home/tk/dev/GPI/build/_deps/sdl3-build:/home/tk/dev/GPI/build/_deps/spirv_cross-build libSDL3_shadercross.so.0.0.0 ../sdl3-build/libSDL3.so.0.1.11 -Wl,-rpath-link,/home/tk/dev/GPI/build/_deps/spirv_cross-build
