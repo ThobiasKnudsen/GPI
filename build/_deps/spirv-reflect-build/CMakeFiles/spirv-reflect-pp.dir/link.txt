@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/spirv-reflect-pp.dir/main.cpp.o" "CMakeFiles/spirv-reflect-pp.dir/spirv_reflect.cpp.o" "CMakeFiles/spirv-reflect-pp.dir/examples/arg_parser.cpp.o" "CMakeFiles/spirv-reflect-pp.dir/examples/common.cpp.o" "CMakeFiles/spirv-reflect-pp.dir/common/output_stream.cpp.o" -o ../spirv-reflect-src/bin/spirv-reflect-pp

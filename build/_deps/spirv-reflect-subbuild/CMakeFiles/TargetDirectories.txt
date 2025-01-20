@@ -1,3 +1,0 @@
-/home/tk/dev/GPI/build/_deps/spirv-reflect-subbuild/CMakeFiles/spirv-reflect-populate.dir
-/home/tk/dev/GPI/build/_deps/spirv-reflect-subbuild/CMakeFiles/edit_cache.dir
-/home/tk/dev/GPI/build/_deps/spirv-reflect-subbuild/CMakeFiles/rebuild_cache.dir
